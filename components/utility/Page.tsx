@@ -1,5 +1,6 @@
 import React from "react";
 import Head from "next/head";
+import Navbar from "../global/Header/Navbar";
 
 export default function Page({ fullTitle, title, desc, children }: PageProps) {
   let pageTitle = fullTitle ? fullTitle : title + " | Saratoga ASB";
@@ -48,6 +49,7 @@ export default function Page({ fullTitle, title, desc, children }: PageProps) {
         />
         <meta name="theme-color" content="#ffffff" />
       </Head>
+      <Navbar />
       {children}
     </>
   );
