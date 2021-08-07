@@ -10,7 +10,7 @@ const people = [
   {
     name: "Alex Yang",
     role: "Vice President",
-    bio: "Yooo what’s up ‘toga! My name is Alex Yang (he/him) and I’m so hyped to be serving as your ASB Vice President this year. In the past year and a half, we’ve been able to thrive and stay connected despite everything getting in our ways, so I am so excited for what&apos;s to come. This will be my third year in leadership and I hope to respark our school spirit. I really enjoy being outdoors, drinking boba, and doing anything music-related. If you ever got any questions about literally anything, ideas, or just wanna chat, you can reach out to me!",
+    bio: "Yooo what’s up ‘toga! My name is Alex Yang (he/him) and I’m so hyped to be serving as your ASB Vice President this year. In the past year and a half, we’ve been able to thrive and stay connected despite everything getting in our ways, so I am so excited for what's to come. This will be my third year in leadership and I hope to respark our school spirit. I really enjoy being outdoors, drinking boba, and doing anything music-related. If you ever got any questions about literally anything, ideas, or just wanna chat, you can reach out to me!",
     email: "thealxxyang@gmail.com",
     instagram: "https://www.instagram.com/alx.yang/",
     facebook: "https://www.facebook.com/profile.php?id=100028100287079",
