@@ -84,6 +84,7 @@ export default function Navbar() {
                     <a
                       href="https://docs.google.com/document/d/1g5c-Fni-kuEM12B4XbCuNENkY_Hlt5B6QWauKkmOGHY/edit"
                       target="_blank"
+                      rel="noreferrer"
                       type="button"
                       className="trans-300 relative inline-flex items-center px-4 py-2 border border-transparent text-md font-medium rounded-md text-white bg-toga-secondary-bright shadow-sm hover:bg-toga-secondary-main"
                     >

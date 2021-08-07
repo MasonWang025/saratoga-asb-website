@@ -38,6 +38,7 @@ export default function Hero() {
                     <a
                       href="https://docs.google.com/document/d/1g5c-Fni-kuEM12B4XbCuNENkY_Hlt5B6QWauKkmOGHY/edit"
                       target="_blank"
+                      rel="noreferrer"
                       className="flex items-center justify-center px-4 py-3 border border-transparent text-base font-medium rounded-md shadow-sm text-toga-secondary bg-white hover:bg-gray-50 sm:px-8"
                     >
                       Club Application
