@@ -29,9 +29,11 @@ export default function Hero() {
                   </div>
                 </h1>
                 <p className="mt-6 max-w-lg mx-auto text-center text-lg text-gray-300 sm:max-w-3xl">
-                  Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure
-                  qui lorem cupidatat commodo. Elit sunt amet fugiat veniam
-                  occaecat fugiat aliqua.
+                  The Associated Student Body (ASB) represents the whole school
+                  to the staff and community. We oversee and coordinate Saratoga
+                  High's Leadership Program, including class offices and
+                  comissions. We are also in charge of all club activities and
+                  meetings.
                 </p>
                 <div className="mt-10 max-w-sm mx-auto sm:max-w-none sm:flex sm:justify-center">
                   <div className="space-y-4 sm:space-y-0 sm:mx-auto sm:inline-grid sm:grid-cols-2 sm:gap-5">
