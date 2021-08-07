@@ -5,7 +5,7 @@ import Member from "./Member";
 export default function Members() {
   return (
     <div className="bg-white">
-      <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8 lg:py-24">
+      <div className="mx-auto py-12 px-4 max-w-7xl sm:px-6 lg:px-8">
         <div className="space-y-12">
           <ul className="space-y-12 sm:divide-y sm:divide-gray-200 sm:space-y-0 sm:-mt-8 lg:gap-x-8 lg:space-y-0">
             {people.map((person) => {

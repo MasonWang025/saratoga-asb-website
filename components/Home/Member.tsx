@@ -24,9 +24,9 @@ export default function Member({
         </div>
         <div className="col-span-12 sm:col-span-9">
           <div className="space-y-4">
-            <div className="text-xl sm:text-2xl font-medium space-y-1">
+            <div className="text-xl sm:text-2xl font-medium">
               <h3 className="text-3xl font-bold mb-2">{name}</h3>
-              <p className="text-toga-primary-main">{role}</p>
+              <p className="text-toga-primary-main -mb-1">{role}</p>
             </div>
             <div className="text-lg text-gray-500 ">
               <div className="space-y-2">

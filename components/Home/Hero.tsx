@@ -7,7 +7,7 @@ export default function Hero() {
       <div className="pt-16">
         {/* Hero card */}
         <div
-          className="relative sm:pt-8 bg-gray-200"
+          className="relative sm:py-8 bg-gray-200"
         >
           <div className="absolute inset-x-0 bottom-0 h-1/2 bg-white" />
           <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">

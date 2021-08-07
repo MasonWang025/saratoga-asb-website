@@ -1,6 +1,7 @@
 import React from "react";
 import Head from "next/head";
 import Navbar from "../global/Header/Navbar";
+import Footer from "../global/Footer";
 
 export default function Page({ fullTitle, title, desc, children }: PageProps) {
   let pageTitle = fullTitle ? fullTitle : title + " | Saratoga ASB";
@@ -51,6 +52,7 @@ export default function Page({ fullTitle, title, desc, children }: PageProps) {
       </Head>
       <Navbar />
       {children}
+      <Footer />
     </>
   );
 }
