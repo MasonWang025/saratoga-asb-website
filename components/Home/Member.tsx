@@ -40,7 +40,12 @@ export default function Member({
                 { link: facebook, icon: faFacebook },
               ].map(({ link, icon }) => (
                 <li key={link}>
-                  <a href={link} className="text-gray-400 hover:text-gray-500">
+                  <a
+                    href={link}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="text-gray-400 hover:text-gray-500"
+                  >
                     <span className="sr-only">LinkedIn</span>
                     <FontAwesomeIcon
                       icon={icon}
